@@ -22,6 +22,6 @@ public class Main {
         }else{
             System.out.println("Aprovado");
         }
-	// write your code here
+        // write your code here
     }
 }
